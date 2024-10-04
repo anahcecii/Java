@@ -1,3 +1,9 @@
-𝐏𝐫𝐚𝐭𝐢𝐜𝐚𝐧𝐝𝐨 𝐉𝐚𝐯𝐚 𝐮𝐦 𝐩𝐨𝐮𝐪𝐮𝐢𝐧𝐡𝐨!
+✨ 𝐏𝐫𝐚𝐭𝐢𝐜𝐚𝐧𝐝𝐨 𝐉𝐚𝐯𝐚 ✨
 
-Aqui vou postar minhas criações básicas em Java.
+
+Olá, sejam bem vindos ao mundo da Ana!
+
+Este é o meu primeiro repositório criado e aqui ficam minhas criações básicas em Java.
+
+
+Com amor, Aninha. 💓
